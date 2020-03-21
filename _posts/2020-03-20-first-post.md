@@ -5,7 +5,8 @@ date: 2020-03-20
 categories: ds, eda
 ---
 
-EDA is the approach for data analysis that employs a variety of techniques<sup>[1](https://www.itl.nist.gov/div898/handbook/eda/section1/eda11.htm)</sup> to
+#### EDA is the approach for data analysis that employs a variety of techniques<sup>[1](https://www.itl.nist.gov/div898/handbook/eda/section1/eda11.htm)</sup> to
+
 - maximize insight into a data set
 - uncover underlying structure
 - extract important variables
@@ -13,6 +14,7 @@ EDA is the approach for data analysis that employs a variety of techniques<sup>[
 - test underlying assumptions
 - develop parsimonious models
 - determine optimal factor settings
+
 
 EDA with a team was full of struggles but rewarding. It was hard to get the ball rolling without a question to focus on. However once we had a direction to play with the data, we're able to start answering questions and think about questions of our own.
 
