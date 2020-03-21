@@ -13,6 +13,7 @@ categories: ds, eda
 - test underlying assumptions
 - develop parsimonious models
 - determine optimal factor settings  
+
 EDA with a team was full of struggles but rewarding. It was hard to get the ball rolling without a question to focus on. However once we had a direction to play with the data, we're able to start answering questions and think about questions of our own.  
 
 I did couple time series analyses, bar charts, and scatter plots. To show trends, frequency counts, and correlations respectively.  
