@@ -7,6 +7,7 @@ header_pages:
   - index.md
   - about.md
   - contact.md
+  - projects.md
 
 footer: 'Be kind.'
 
